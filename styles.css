@@ -1,0 +1,11 @@
+body {
+  font-family: Verdana, Helvetica, Arial, Sans-Serif;
+  text-align: center;
+}
+h1 {
+  color: blue;
+}
+textarea {
+  height: 100px;
+  width: 200px;
+}
